@@ -4,7 +4,12 @@
 - [Månadsavstämning](#månadsavstämning)
 - [Vanliga Bokföringar](#vanliga-bokföringar)
   - [Kostnader](#kostnader)
+    - [Inköp av mjukvara (inom EU)](#inköp-av-mjukvara-inom-eu)
+    - [Inköp av mjukvara (utanför EU)](#inköp-av-mjukvara-utanför-eu)
+    - [Friskvård](#friskvård)
+    - [Fika](#fika)
   - [Inkomster](#inkomster)
+    - [Skattefri ränteintäkt (skattekontot)](#skattefri-ränteintäkt-skattekontot)
 
 ## Månadsavstämning
 Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring:
@@ -19,7 +24,7 @@ Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring
 5. **Stäm av skattekontot för eventuella räntebetalningar:**
    - Kontrollera och bokför eventuella räntebetalningar på skattekontot.
 6. **Stäm av bankkontot:**
-   - Kontrollera att 1930 för sista datumet i månaden matchar kontoutdraget
+   - Kontrollera att saldo på konto 1930 för sista datumet i månaden matchar kontoutdraget.
 
 ## Vanliga Bokföringar
 
@@ -43,6 +48,7 @@ Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring
 | 1930 Företagskonto/checkkonto     | 0       | X      |
 | 2640 Ingående moms                | M       | 0      |
 | 7690 Övriga personalkostnader     | X - M   | 0      |
+
 #### Fika
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -51,8 +57,8 @@ Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring
 | 7690 Övriga personalkostnader     | X - M  | 0      |
 
 ### Inkomster
-#### Skattefri ränte-intäkter (skattekontot)
-| Konto          | Debet  | Kredit |
-| -------------- | ------ | ------ |
-| 1630 Avräkning för skatter och avgifter |  X | |
-| 8314 - Skattefria ränteintäkter | | X |
+#### Skattefri ränteintäkt (skattekontot)
+| Konto                                     | Debet  | Kredit |
+| ----------------------------------------- | ------ | ------ |
+| 1630 Avräkning för skatter och avgifter   | X      |        |
+| 8314 Skattefria ränteintäkter             |        | X      |
