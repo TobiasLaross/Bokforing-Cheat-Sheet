@@ -29,6 +29,13 @@ Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring
 ## Vanliga Bokföringar
 
 ### Kostnader
+#### Parkering
+| Konto                             | Debet  | Kredit |
+| --------------------------------- | ------ | ------ |
+| 1930 Företagskonto/checkkonto     | 0      | X      |
+| 2640 Ingående moms                | M      | 0      |
+| 5800 Resekostnader                | X - M  | 0      |
+
 #### Inköp av mjukvara (inom EU)
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
