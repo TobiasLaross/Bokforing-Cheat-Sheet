@@ -4,6 +4,7 @@
 - [Månadsavstämning](#månadsavstämning)
 - [Vanliga Bokföringar](#vanliga-bokföringar)
   - [Kostnader](#kostnader)
+    - [Parking](#parkering)
     - [Inköp av mjukvara (inom EU)](#inköp-av-mjukvara-inom-eu)
     - [Inköp av mjukvara (utanför EU)](#inköp-av-mjukvara-utanför-eu)
     - [Friskvård](#friskvård)
