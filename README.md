@@ -17,6 +17,7 @@
 
 ### Kostnader
 
+---
 
 #### **💻 Inköp av mjukvara (inom EU)**
 
@@ -26,7 +27,8 @@
 | 2641 Ingående moms                |        | M      |
 | 6500 Övriga externa tjänster      | X      |        |
 
-  
+---
+
 #### **🌐 Inköp av mjukvara (utanför EU)**
 
 | Konto                             | Debet  | Kredit |
@@ -34,8 +36,9 @@
 | 1930 Företagskonto/checkkonto     |        | X      |
 | 6500 Övriga externa tjänster      | X      |        |
 
+---
 
-#### **🏋️‍♀️ Friskvård**
+#### **🏋️ Friskvård**
 
 | Konto                             | Debet   | Kredit |
 | --------------------------------- | ------- | ------ |
@@ -43,6 +46,7 @@
 | 2640 Ingående moms                | M       | 0      |
 | 7690 Övriga personalkostnader     | X - M   | 0      |
 
+---
 
 #### **☕ Fika**
 
@@ -52,6 +56,7 @@
 | 2640 Ingående moms                | M      | 0      |
 | 7690 Övriga personalkostnader     | X - M  | 0      |
 
+---
 
 #### **🚗 Parkering**
 
@@ -63,11 +68,16 @@
 
 ### Inkomster
 
+---
+
 #### **💸 Skattefri ränteintäkt (skattekontot)**
+
 | Konto                                     | Debet  | Kredit |
 | ----------------------------------------- | ------ | ------ |
 | 1630 Avräkning för skatter och avgifter   | X      |        |
 | 8314 Skattefria ränteintäkter             |        | X      |
+
+---
 
 ## Månadsavstämning
 
