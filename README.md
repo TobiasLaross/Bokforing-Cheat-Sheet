@@ -12,7 +12,6 @@
     - [Skattefri ränteintäkt (skattekontot)](#skattefri-ränteintäkt-skattekontot)
 - [Månadsavstämning](#månadsavstämning)
 
-<div align="center">
 
 ## Vanliga Bokföringar
 
@@ -71,7 +70,6 @@
 | 8314 Skattefria ränteintäkter             |        | X      |
 
 ## Månadsavstämning
-</div>
 
 Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring:
 1. **Bokföring av samma månads skatter/avgifter som skuld:**
