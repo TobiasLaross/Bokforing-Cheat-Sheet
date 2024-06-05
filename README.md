@@ -47,6 +47,16 @@
 
 ---
 
+#### **💰 Betalning av skatt till Skatteverket för lön**
+
+| Konto                                          | Debet  | Kredit |
+| ---------------------------------------------- | ------ | ------ |
+| 1930 Företagskonto/checkkonto              | 0      | X      |
+| 2710 Personalskatt                         | S      | 0      |
+| 2730 Lagstadgade sociala avgifter och ...  | A      | 0      |
+
+---
+
 #### **🏦 Bankkostnader**
 
 | Konto                             | Debet  | Kredit |
