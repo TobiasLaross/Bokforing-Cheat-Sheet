@@ -38,6 +38,15 @@
 
 ---
 
+#### **💰 Betalning av moms till Skatteverket**
+
+| Konto                             | Debet  | Kredit |
+| --------------------------------- | ------ | ------ |
+| 1930 Företagskonto/checkkonto     | 0      | X      |
+| 2650 Redovisningskonto för moms   | X      | 0      |
+
+---
+
 #### **🏦 Bankkostnader**
 
 | Konto                             | Debet  | Kredit |
