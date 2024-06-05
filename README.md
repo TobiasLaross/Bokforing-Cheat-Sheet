@@ -3,13 +3,16 @@
 ## Innehåll
 - [Vanliga Bokföringar](#vanliga-bokföringar)
   - [Kostnader](#kostnader)
-    - [Inköp av mjukvara (inom EU)](#inköp-av-mjukvara-inom-eu)
-    - [Inköp av mjukvara (utanför EU)](#inköp-av-mjukvara-utanför-eu)
-    - [Friskvård](#friskvård)
-    - [Fika](#fika)
-    - [Parkering](#parkering)
+    - [Inköp av mjukvara (inom EU)](#-inköp-av-mjukvara-inom-eu)
+    - [Inköp av mjukvara (utanför EU)](#-inköp-av-mjukvara-utanför-eu)
+    - [Friskvård](#-friskvård)
+    - [Fika](#-fika)
+    - [Parkering](#-parkering)
+    - [Betalning av moms till Skatteverket](#-betalning-av-moms-till-skatteverket)
+    - [Betalning av skatt till Skatteverket för lön](#-betalning-av-skatt-till-skatteverket-för-lön)
+    - [Bankkostnader](#-bankkostnader)
   - [Inkomster](#inkomster)
-    - [Skattefri ränteintäkt (skattekontot)](#skattefri-ränteintäkt-skattekontot)
+    - [Skattefri ränteintäkt (skattekontot)](#-skattefri-ränteintäkt-skattekontot)
 - [Månadsavstämning](#månadsavstämning)
 
 
@@ -19,7 +22,7 @@
 
 ---
 
-#### **💻 Inköp av mjukvara (inom EU)**
+#### 💻 Inköp av mjukvara (inom EU)
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -29,7 +32,7 @@
 
 ---
 
-#### **🌐 Inköp av mjukvara (utanför EU)**
+#### 🌐 Inköp av mjukvara (utanför EU)
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -38,7 +41,7 @@
 
 ---
 
-#### **💰 Betalning av moms till Skatteverket**
+#### 💰 Betalning av moms till Skatteverket
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -47,7 +50,7 @@
 
 ---
 
-#### **💰 Betalning av skatt till Skatteverket för lön**
+#### 💰 Betalning av skatt till Skatteverket för lön
 
 | Konto                                          | Debet  | Kredit |
 | ---------------------------------------------- | ------ | ------ |
@@ -57,7 +60,7 @@
 
 ---
 
-#### **🏦 Bankkostnader**
+#### 🏦 Bankkostnader
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -66,7 +69,7 @@
 
 ---
 
-#### **🏋️ Friskvård**
+#### 🏋️ Friskvård
 
 | Konto                             | Debet   | Kredit |
 | --------------------------------- | ------- | ------ |
@@ -76,7 +79,7 @@
 
 ---
 
-#### **☕ Fika**
+#### ☕Fika
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -86,7 +89,7 @@
 
 ---
 
-#### **🚗 Parkering**
+#### 🚗 Parkering
 
 | Konto                             | Debet  | Kredit |
 | --------------------------------- | ------ | ------ |
@@ -98,7 +101,7 @@
 
 ---
 
-#### **💸 Skattefri ränteintäkt (skattekontot)**
+#### 💸 Skattefri ränteintäkt (skattekontot)
 
 | Konto                                     | Debet  | Kredit |
 | ----------------------------------------- | ------ | ------ |
@@ -110,15 +113,15 @@
 ## Månadsavstämning
 
 Följ dessa steg vid varje månadsslut för att säkerställa korrekt bokföring:
-1. **Bokföring av samma månads skatter/avgifter som skuld:**
+1. Bokföring av samma månads skatter/avgifter som skuld:
    - Skulder för skatter och avgifter bokförs automatiskt.
-2. **Bokföring av skatter/avgifter från föregående månad:**
+2. Bokföring av skatter/avgifter från föregående månad:
    - Bokför genom dokument som laddats upp automatiskt. Försök koppla dokumentet till den relevanta transaktionen.
-3. **Bokföring av moms från två månader tidigare:**
+3. Bokföring av moms från två månader tidigare:
    - Koppla momsbokföringen till momsrapporten och den relevanta transaktionen.
-4. **Bokför eventuella inkommande betalningar av fakturor:**
+4. Bokför eventuella inkommande betalningar av fakturor:
    - Bokför inkommande betalningar och säkerställ att kundfordran bokförs automatiskt.
-5. **Stäm av skattekontot för eventuella räntebetalningar:**
+5. Stäm av skattekontot för eventuella räntebetalningar:
    - Kontrollera och bokför eventuella räntebetalningar på skattekontot.
-6. **Stäm av bankkontot:**
+6. Stäm av bankkontot:
    - Kontrollera att saldo på konto 1930 för sista datumet i månaden matchar kontoutdraget.
