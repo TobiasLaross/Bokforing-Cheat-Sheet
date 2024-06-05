@@ -5,12 +5,12 @@
   - [Kostnader](#kostnader)
     - [Inköp av mjukvara (inom EU)](#-inköp-av-mjukvara-inom-eu)
     - [Inköp av mjukvara (utanför EU)](#-inköp-av-mjukvara-utanför-eu)
-    - [Friskvård](#-friskvård)
-    - [Fika](#-fika)
-    - [Parkering](#-parkering)
     - [Betalning av moms till Skatteverket](#-betalning-av-moms-till-skatteverket)
     - [Betalning av skatt till Skatteverket för lön](#-betalning-av-skatt-till-skatteverket-för-lön)
     - [Bankkostnader](#-bankkostnader)
+    - [Fika](#fika)
+    - [Parkering](#-parkering)
+    - [Friskvård](#%EF%B8%8F-friskvård)
   - [Inkomster](#inkomster)
     - [Skattefri ränteintäkt (skattekontot)](#-skattefri-ränteintäkt-skattekontot)
 - [Månadsavstämning](#månadsavstämning)
@@ -69,16 +69,6 @@
 
 ---
 
-#### 🏋️ Friskvård
-
-| Konto                             | Debet   | Kredit |
-| --------------------------------- | ------- | ------ |
-| 1930 Företagskonto/checkkonto     | 0       | X      |
-| 2640 Ingående moms                | M       | 0      |
-| 7690 Övriga personalkostnader     | X - M   | 0      |
-
----
-
 #### ☕Fika
 
 | Konto                             | Debet  | Kredit |
@@ -96,6 +86,16 @@
 | 1930 Företagskonto/checkkonto     | 0      | X      |
 | 2640 Ingående moms                | M      | 0      |
 | 5800 Resekostnader                | X - M  | 0      |
+
+#### 🏋️ Friskvård
+
+| Konto                             | Debet   | Kredit |
+| --------------------------------- | ------- | ------ |
+| 1930 Företagskonto/checkkonto     | 0       | X      |
+| 2640 Ingående moms                | M       | 0      |
+| 7690 Övriga personalkostnader     | X - M   | 0      |
+
+---
 
 ### Inkomster
 
