@@ -38,6 +38,15 @@
 
 ---
 
+#### **🏦 Bankkostnader**
+
+| Konto                             | Debet  | Kredit |
+| --------------------------------- | ------ | ------ |
+| 1930 Företagskonto/checkkonto     | 0      | X     |
+| 6570 Bankkostnader                | X      | 0      |
+
+---
+
 #### **🏋️ Friskvård**
 
 | Konto                             | Debet   | Kredit |
